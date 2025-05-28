@@ -1,6 +1,6 @@
 # Blackbeard Extension
 
-[日本語版 README はこちら](README.md)
+[日本語版 README はこちら](README.md) | [中文版 README 在这里](README_CHINESE.md)
 
 ## Overview
 
