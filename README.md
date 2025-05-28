@@ -1,5 +1,7 @@
 # Blackbeard Extension
 
+[English README is here](README_ENGLISH.md)
+
 ## 概要
 
 Blackbeard は、GitHub Copilot Extension のサンプルプロジェクトです。このエージェントは海賊のキャラクターとしてユーザーとやり取りし、Copilot の LLM API を活用しています。GitHub Copilot Extension の開発方法を学ぶための基本的な例として提供されています。
